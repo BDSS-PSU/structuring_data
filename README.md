@@ -16,4 +16,4 @@ Structuring Data
 
 ## Styling and Visualizing Spatial Data
 * [CartoCSS](https://www.mapbox.com/tilemill/docs/manual/carto/) - Learn the CartoCSS language for styling spatial data. Very similar to Cascading Stylesheets (CSS) for the web.
-* [TileMill](http://www.mapbox.com/tilemill) - Load data from Shapefiles, Postgres or SpatialLite DBs, and style with CartoCSS. Render tiles to serve yourself of publish them to [MapBox](http://www.mapbox.com).
+* [TileMill](http://www.mapbox.com/tilemill) - Load data from Shapefiles, Postgres or SpatialLite DBs, and style with CartoCSS. Render tiles to serve yourself or publish them to [MapBox](http://www.mapbox.com).
