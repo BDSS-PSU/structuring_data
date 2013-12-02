@@ -2,6 +2,20 @@ Structuring Data
 ================
 This repository will be home to documents, tutorials, and other helpful resources for structuring data.
 
+#Structured Query Language
+
+##Learning
+* [Learn SQL the Hard Way](http://sql.learncodethehardway.org/) - Clear and simple introduction to SQL.
+* [SQL vs. NoSQL](http://www.zdnet.com/rdbms-vs-nosql-how-do-you-pick-7000020803/) - Brief introduction to the differences between SQL and NoSQL.
+
+##Databases
+
+* [SQLite](https://www.sqlite.org/)
+* [PostgreSQL](http://www.postgresql.org/)
+
+###NoSQL
+
+* [MongoDB](http://www.mongodb.org/)
 
 # Spatial Data
 ## Getting Spatial Data
@@ -18,3 +32,8 @@ This repository will be home to documents, tutorials, and other helpful resource
 ## Styling and Visualizing Spatial Data
 * [CartoCSS](https://www.mapbox.com/tilemill/docs/manual/carto/) - Learn the CartoCSS language for styling spatial data. Very similar to Cascading Stylesheets (CSS) for the web.
 * [TileMill](http://www.mapbox.com/tilemill) - Load data from Shapefiles, Postgres or SpatialLite DBs, and style with CartoCSS. Render tiles to serve yourself or publish them to [MapBox](http://www.mapbox.com).
+
+#Hadoop
+
+* [Hive](https://hive.apache.org/) - SQL on Hadoop
+* [Impala](http://www.cloudera.com/content/cloudera/en/products-and-services/cdh/impala.html)
